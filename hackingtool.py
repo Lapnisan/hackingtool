@@ -1,5 +1,8 @@
-#!/usr/bin/env python3
-# Version 1.1.0
+git clone https://github.com/Z4nzu/hackingtool.git
+chmod -R 755 hackingtool
+cd hackingtool
+sudo pip3 install -r requirement.txt
+sudo hackingtool
 import os
 import sys
 import webbrowser
